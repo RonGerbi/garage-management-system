@@ -1,0 +1,1 @@
+A system to handle different types of vehicles in a garage while adhering to the engineering principles of software engineering and OOP with use of polymorphism, composition, design patterns, and well written code.
